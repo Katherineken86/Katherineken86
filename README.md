@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Katherineken86, a PhD candidate in Biodiversity and Evolution of Plants at Carl von Ossietzky University of Oldenburg Germany
+- 👋 Hi, I’m Katherine Enebeli-Ekwutoziam. I am a PhD candidate in Biodiversity and Evolution of Plants at Carl von Ossietzky University of Oldenburg Germany
 - 👀 I’m interested in use of spatial indicies for monitioring biodiversity, geospatial intelligence and machine learning
 - 🌱 I’m currently learning machine learning, programming languages
 - 💞️ I’m looking to collaborate on use of geospatial intelligence for biodiversity
